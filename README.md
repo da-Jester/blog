@@ -1,3 +1,2 @@
 # da-Jester/-Krios-'s blog
-this is my experimental blog.
-work in progress
+I'm trying to make a blog
