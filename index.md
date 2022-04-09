@@ -1,6 +1,3 @@
 # Hi.
-## This works
-### yup this works
-#### this is cool
-##### yeah
-###### I like jekyll
+## This is my blag
+I'm getting this set up.
